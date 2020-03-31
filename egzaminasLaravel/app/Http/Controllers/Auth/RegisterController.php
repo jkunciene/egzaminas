@@ -65,27 +65,27 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
-        return User::create([
+        $user=User::create([
             'name' => $data['name'],
             'surname' => $data['surname'],
             'email' => $data['email'],
             'password' => Hash::make($data['password']),
         ]);
-        return redirect('/createAccount');
-
-    }
-    public function FirstAccount(){
         Account::create([
             'nr_account' =>('LT867044060007218454'),
             'attribute' => ('1'),
             'balance' => ('500'),
-            'user_id' => Auth::id()
+            'user_id' => $user->id
         ]);
         Account::create([
             'nr_account' =>('LT867044060007218455'),
             'attribute' => ('0'),
             'balance' => ('0'),
-            'user_id' => Auth::id()
+            'user_id' => $user->id
         ]);
+        return $user;
+
     }
+
+
 }

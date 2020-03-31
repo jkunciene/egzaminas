@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e85f139f-c21a-4af9-8f82-5d9196e97321" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/AccountController.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/AccountController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="73" column="42" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+            <state relative-caret-position="758">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
               <folding>
                 <element signature="e#45#81#0#PHP" expanded="true" />
               </folding>
@@ -33,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/egzaminasLaravel/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -98,8 +95,8 @@
         <option value="$PROJECT_DIR$/egzaminasLaravel/app/Account.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/app/Operation.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/AccountController.php" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/routes/web.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" />
       </list>
     </option>
   </component>
@@ -143,7 +140,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="1" />
-    <option name="width" value="1918" />
+    <option name="width" value="1034" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -273,7 +270,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585493744056</updated>
       <workItem from="1585493745965" duration="1325000" />
-      <workItem from="1585641961503" duration="6670000" />
+      <workItem from="1585641961503" duration="7607000" />
     </task>
     <task id="LOCAL-00001" summary="pradzia">
       <created>1585647711618</created>
@@ -282,17 +279,24 @@
       <option name="project" value="LOCAL" />
       <updated>1585647711618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="neveikia saskaitu kurimas">
+      <created>1585648852910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585648852910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7995000" />
+    <option name="totallyTimeSpent" value="8932000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="1" width="1918" height="1040" extended-state="0" />
+    <frame x="4" y="1" width="1034" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16846071" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32135522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -319,7 +323,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pradzia" />
-    <option name="LAST_COMMIT_MESSAGE" value="pradzia" />
+    <MESSAGE value="neveikia saskaitu kurimas" />
+    <option name="LAST_COMMIT_MESSAGE" value="neveikia saskaitu kurimas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/.env">
@@ -403,20 +408,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="73" column="42" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
-          <folding>
-            <element signature="e#45#81#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#45#81#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

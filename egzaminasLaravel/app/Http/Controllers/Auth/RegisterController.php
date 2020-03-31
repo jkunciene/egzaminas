@@ -72,13 +72,13 @@ class RegisterController extends Controller
             'password' => Hash::make($data['password']),
         ]);
         Account::create([
-            'nr_account' =>('LT867044060007218454'),
+            'nr_account' =>('LT867044060127218454'),
             'attribute' => ('1'),
             'balance' => ('500'),
             'user_id' => $user->id
         ]);
         Account::create([
-            'nr_account' =>('LT867044060007218455'),
+            'nr_account' =>('LT867044060117218455'),
             'attribute' => ('0'),
             'balance' => ('0'),
             'user_id' => $user->id

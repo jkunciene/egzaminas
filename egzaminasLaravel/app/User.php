@@ -19,6 +19,13 @@ class User extends Authenticatable
         'name', 'surname', 'email', 'password',
     ];
 
+    public function account(){
+        return $this->hasMany(Account::class);
+    }
+    public function operation(){
+        return $this->hasMany(Operation::class);
+    }
+
     /**
      * The attributes that should be hidden for arrays.
      *

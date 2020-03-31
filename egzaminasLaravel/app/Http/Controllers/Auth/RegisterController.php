@@ -71,9 +71,13 @@ class RegisterController extends Controller
             'email' => $data['email'],
             'password' => Hash::make($data['password']),
         ]);
+        return redirect('/createAccount');
+
+    }
+    public function FirstAccount(){
         Account::create([
             'nr_account' =>('LT867044060007218454'),
-             'attribute' => ('1'),
+            'attribute' => ('1'),
             'balance' => ('500'),
             'user_id' => Auth::id()
         ]);

@@ -18,6 +18,8 @@ class CreateAccountsTable extends Migration
             $table->string('nr_account');
             $table->boolean('attribute');
             $table->float('balance');
+            $table->float('plius');
+            $table->float('minus');
             $table->integer('user_id');
             $table->timestamps();
         });

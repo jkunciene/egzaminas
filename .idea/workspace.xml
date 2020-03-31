@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e85f139f-c21a-4af9-8f82-5d9196e97321" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/_partials/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/pinigu_pavedimas.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/user_account.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Account.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/AccountController.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/AccountController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/HomeController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/OperationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/OperationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Operation.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Operation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/_partials/admin_panel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/_partials/admin_panel.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/errors.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/errors.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/database/migrations/2020_03_31_084421_create_accounts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/database/migrations/2020_03_31_084421_create_accounts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/user_account.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/user_account.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminasLaravel/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminasLaravel/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,29 +33,52 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/OperationController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" selection-start-line="6" selection-end-line="6" selection-end-column="36" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="561">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/pinigu_pavedimas.blade.php">
+        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/OperationController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="10" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="42" selection-end-column="10" />
+            <state relative-caret-position="656">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#40#58#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="74" column="52" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
+              <folding>
+                <element signature="e#45#81#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,56 +93,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/_partials/admin_panel.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#nav#0;n#div#0;n#aside#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#nav#0;n#div#0;n#aside#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/AccountController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#40#56#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Providers/AuthServiceProvider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="e#33#116#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/user_account.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            <state relative-caret-position="629">
+              <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -143,26 +119,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/egzaminasLaravel/.env" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/database/migrations/2020_03_31_084421_create_accounts_table.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/database/migrations/2020_03_31_084516_create_operations_table.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/auth/register.blade.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/database/migrations/2014_10_12_000000_create_users_table.php" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Account.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/app/Operation.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/app/User.php" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/errors.blade.php" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/main.blade.php" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/_partials/admin_panel.blade.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/app/Providers/AuthServiceProvider.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/AccountController.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/routes/web.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/pinigu_pavedimas.blade.php" />
-        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/OperationController.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/database/migrations/2020_03_31_084421_create_accounts_table.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Account.php" />
         <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/user_account.blade.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/OperationController.php" />
+        <option value="$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/HomeController.php" />
       </list>
     </option>
   </component>
@@ -369,7 +345,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585493744056</updated>
       <workItem from="1585493745965" duration="1325000" />
-      <workItem from="1585641961503" duration="20475000" />
+      <workItem from="1585641961503" duration="24239000" />
     </task>
     <task id="LOCAL-00001" summary="pradzia">
       <created>1585647711618</created>
@@ -392,11 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585649825834</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="irasom pavedima">
+      <created>1585663233319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585663233319</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21800000" />
+    <option name="totallyTimeSpent" value="25564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="1" width="1071" height="1040" extended-state="0" />
@@ -431,7 +414,8 @@
     <MESSAGE value="pradzia" />
     <MESSAGE value="neveikia saskaitu kurimas" />
     <MESSAGE value="veikia saskaitu sukurimas registracijos metu" />
-    <option name="LAST_COMMIT_MESSAGE" value="veikia saskaitu sukurimas registracijos metu" />
+    <MESSAGE value="irasom pavedima" />
+    <option name="LAST_COMMIT_MESSAGE" value="irasom pavedima" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/.env">
@@ -464,16 +448,6 @@
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/_partials/footer.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="70" column="40" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -485,23 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="5" selection-start-line="10" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="80" column="42" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
-          <folding>
-            <element signature="e#45#81#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Account.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -526,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/database/migrations/2020_03_31_084421_create_accounts_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/_partials/admin_panel.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -541,13 +491,6 @@
             <element signature="n#style#0;n#a#0;n#nav#0;n#div#0;n#aside#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#nav#0;n#div#0;n#aside#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -578,27 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/user_account.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/pinigu_pavedimas.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -606,10 +528,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/database/migrations/2020_03_31_084421_create_accounts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="81" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/user_account.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="74" column="52" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
+          <folding>
+            <element signature="e#45#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/OperationController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" selection-start-line="6" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="656">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#40#58#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/resources/views/bankas/pages/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egzaminasLaravel/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

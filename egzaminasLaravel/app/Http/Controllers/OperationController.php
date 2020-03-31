@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use App\Operation;
+use App\Account;
+use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
@@ -28,6 +30,24 @@ class OperationController extends Controller
                 'receiver_surname' => request('gavejoPavarde'),
                 'status'=>'0'
             ]);
+
+            Operation::where('status', '0')->
+            update(['status' => '1']);
+
+
+            Account::where('user_id', request('id'))->
+            update([
+                'minus'=>request('suma')
+
+            ]);
+
+            Account::where('nr_account', request('saskaita'))->
+                update([
+                    'plius'=>request('suma')
+
+            ]);
+
+
             return redirect('/user_account/');
         }
 

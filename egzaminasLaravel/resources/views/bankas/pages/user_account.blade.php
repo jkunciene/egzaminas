@@ -21,7 +21,9 @@
                             <tr>
 
                                 <th scope="col" class="border-0">Account Number</th>
-                                <th scope="col" class="border-0">Amound</th>
+                                <th scope="col" class="border-0">Pradinis likutis</th>
+                                <th scope="col" class="border-0">Pajamos</th>
+                                <th scope="col" class="border-0">Islaidos</th>
                                 <th scope="col" class="border-0">Status</th>
                             </tr>
                             </thead>
@@ -32,6 +34,8 @@
 
                                         <th>{{ $account->nr_account }}</th>
                                         <th>{{ $account->balance }}</th>
+                                        <th>{{ $account->plius }}</th>
+                                        <th>{{ $account->minus }}</th>
                                         @if( $account->attribute == 1)
 
                                         <th>Pagrindine</th> @else
